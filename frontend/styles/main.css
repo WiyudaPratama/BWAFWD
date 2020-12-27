@@ -235,4 +235,8 @@ header .btn-get-started:hover {
   -webkit-columns: #c3c3c3;
           columns: #c3c3c3;
 }
+
+.section-footer a {
+  color: #071c4d;
+}
 /*# sourceMappingURL=main.css.map */
